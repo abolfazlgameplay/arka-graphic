@@ -1,0 +1,6 @@
+{
+  "name": "مجموعه گرافیک آرکا | Arka Graphic Studio",
+  "description": "وبسایت رسمی و سیستم سفارش آنلاین مجموعه گرافیک آرکا، ارائه‌دهنده خدمات تخصصی طراحی هویت بصری، لوگو، پوستر، بنر، شبکه‌های اجتماعی و تدوین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
